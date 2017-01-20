@@ -1,6 +1,6 @@
 # [rkgttr-arrayfrompolyfill](https://github.com/rkgttr/rkgttr-arrayfrompolyfill)
 
-[![NPM version](http://img.shields.io/npm/v/rkgttr-poyfills.svg?style=flat-square)](https://www.npmjs.com/package/rkgttr-arrayfrompolyfill)
+[![NPM version](http://img.shields.io/npm/v/rkgttr-arrayfrompolyfill.svg?style=flat-square)](https://www.npmjs.com/package/rkgttr-arrayfrompolyfill)
 [![NPM downloads](http://img.shields.io/npm/dm/rkgttr-arrayfrompolyfill.svg?style=flat-square)](https://www.npmjs.com/package/rkgttr-arrayfrompolyfill)
 [![Build Status](http://img.shields.io/travis/rkgttr/rkgttr-arrayfrompolyfill/master.svg?style=flat-square)](https://travis-ci.org/rkgttr/rkgttr-arrayfrompolyfill)
 [![Coverage Status](https://img.shields.io/coveralls/rkgttr/rkgttr-arrayfrompolyfill.svg?style=flat-square)](https://coveralls.io/rkgttr/rkgttr-arrayfrompolyfill)

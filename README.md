@@ -22,7 +22,7 @@ $ yarn add rkgttr-arrayfrompolyfill --dev
 ### Getting Started
 
 ```js
-import ArrayFromPolyfill from 'rkgttr-arrayfrompolyfill';
+import 'rkgttr-arrayfrompolyfill';
 ```
 
 or
